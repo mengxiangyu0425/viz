@@ -1,2 +1,6 @@
 test
+<<<<<<< HEAD
 666666666
+=======
+ooooooooooooooo
+>>>>>>> dev
